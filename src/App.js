@@ -25,7 +25,7 @@ function App() {
           <MDBCol md="9">
             <div className="main">
               {timeOut ? (
-                <h1 className="earned">Tổng Số Tiền Kiếm Được: {earned}</h1>
+                <h1 className="earned"> Tiền Kiếm Được: {earned}</h1>
               ) : (
                 <>
                   <div style={{ height: "50%", position: "relative" }}>
@@ -52,7 +52,7 @@ function App() {
                   }}>Thoát</MDBBtn>
                 </span>
                 <MDBCol md="6">Tên: {name}</MDBCol>
-                <MDBCol md="6">Tổng Tiền Kiếm Được: {earned}</MDBCol>
+                <MDBCol md="6"> Tiền Kiếm Được: {earned}</MDBCol>
               </MDBRow>
               <hr />
               {prizeMoney.map((item) => (
