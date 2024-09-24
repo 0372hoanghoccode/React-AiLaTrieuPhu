@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-AiLaTrieuPhu/static/css/main.0bf30ec5.css",
+    "main.js": "/React-AiLaTrieuPhu/static/js/main.58046c3d.js",
+    "static/js/845.11067356.chunk.js": "/React-AiLaTrieuPhu/static/js/845.11067356.chunk.js",
+    "static/js/787.6b1c4d8f.chunk.js": "/React-AiLaTrieuPhu/static/js/787.6b1c4d8f.chunk.js",
+    "static/media/play.mp3": "/React-AiLaTrieuPhu/static/media/play.8e5f6d1d81d4e1414b95.mp3",
+    "static/media/correct.mp3": "/React-AiLaTrieuPhu/static/media/correct.160572d72c858155072e.mp3",
+    "static/media/wrong.mp3": "/React-AiLaTrieuPhu/static/media/wrong.e946821894ae9b0a0d6f.mp3",
+    "index.html": "/React-AiLaTrieuPhu/index.html",
+    "main.0bf30ec5.css.map": "/React-AiLaTrieuPhu/static/css/main.0bf30ec5.css.map",
+    "main.58046c3d.js.map": "/React-AiLaTrieuPhu/static/js/main.58046c3d.js.map",
+    "845.11067356.chunk.js.map": "/React-AiLaTrieuPhu/static/js/845.11067356.chunk.js.map",
+    "787.6b1c4d8f.chunk.js.map": "/React-AiLaTrieuPhu/static/js/787.6b1c4d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf30ec5.css",
+    "static/js/main.58046c3d.js"
+  ]
+}
